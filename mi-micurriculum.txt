@@ -4,3 +4,4 @@ preescolar: kínder
 primaria: primaria
 secundaria: secundaria
 
+bachillerato: uas
