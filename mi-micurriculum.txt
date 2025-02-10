@@ -5,3 +5,4 @@ primaria: primaria
 secundaria: secundaria
 
 bachillerato: uas
+univercidad: uadeo
