@@ -1,3 +1,5 @@
 Mi historia academica
 
-preescolar: kinder
+preescolar: kínder
+primaria: primaria
+
