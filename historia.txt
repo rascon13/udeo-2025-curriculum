@@ -1,0 +1,59 @@
+commit 34a84a3f180e3983ad3753753a410bb978b8dba7
+Author: jorgefelix13 <felixrasconjorgeantonio@gmail.com>
+Date:   Mon Feb 17 11:00:24 2025 -0700
+
+    agregar directorio image
+
+commit 2aec8f108d838a78f9b742fc7b4994eba551386d
+Author: jorgefelix13 <felixrasconjorgeantonio@gmail.com>
+Date:   Mon Feb 17 10:53:53 2025 -0700
+
+    agregar javascript
+
+commit e9f59b0e510cacbe7980871e39799e4c54cd73ca
+Author: jorgefelix13 <felixrasconjorgeantonio@gmail.com>
+Date:   Mon Feb 17 10:51:41 2025 -0700
+
+    agregar css
+
+commit c73756e3b7bd70057ea10d422f1f3e69a2ba9e88
+Author: jorgefelix13 <felixrasconjorgeantonio@gmail.com>
+Date:   Mon Feb 17 10:45:59 2025 -0700
+
+    Nueva vercion
+
+commit 4f78a84f07f2550aeeb1126bb299a7257a7a9020
+Author: jorgefelix13 <felixrasconjorgeantonio@gmail.com>
+Date:   Mon Feb 10 11:19:32 2025 -0700
+
+    universidad
+
+commit ad748f94c0be28ceff25a035d23b929b797ffc35
+Author: jorgefelix13 <felixrasconjorgeantonio@gmail.com>
+Date:   Mon Feb 10 11:18:15 2025 -0700
+
+    preparatoria
+
+commit f7cdf68dcd72c77e2fa456ff16bb1edb7ac1f078
+Author: jorgefelix13 <felixrasconjorgeantonio@gmail.com>
+Date:   Mon Feb 10 11:15:41 2025 -0700
+
+    secundaria
+
+commit 5924ae2b7ced4cd5ff8eb535e7958b65f2a1ed66
+Author: jorgefelix13 <felixrasconjorgeantonio@gmail.com>
+Date:   Mon Feb 10 11:12:18 2025 -0700
+
+    primaria
+
+commit dac2f58eb46a8885e679dc65e98d147f200018cf
+Author: jorgefelix13 <felixrasconjorgeantonio@gmail.com>
+Date:   Mon Feb 10 11:09:35 2025 -0700
+
+    kinder
+
+commit b261da4d4467f05ffb1f8cb00d33910ba9800095
+Author: jorgefelix13 <felixrasconjorgeantonio@gmail.com>
+Date:   Mon Feb 10 10:56:31 2025 -0700
+
+    Inicializar el repositorio
